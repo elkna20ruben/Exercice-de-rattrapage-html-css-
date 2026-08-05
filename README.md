@@ -4,7 +4,7 @@ Mini Projet HTML/CSS  Projet réalisé dans le cadre des travaux pratiques de d�
 ## GabEnergies
 
 ## Description
-GabEnergies est un mini-site web responsive réalisé en HTML5 et CSS. Il présente une entreprise fictive du secteur de l'énergie au Gabon.
+GabEnergies est un mini-site web responsive réalisé en HTML et CSS. Il présente une entreprise fictive du secteur de l'énergie au Gabon.
 
 ## Fonctionnalités
 - Présentation de l'entreprise
